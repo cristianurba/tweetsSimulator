@@ -7,7 +7,7 @@ import "./ListTweets.scss";
 export default function ListTweets(props){
     const {allTweets, deleteTweet} = props;
 
-    if(!allTweets || allTweets.length == 0){
+    if(!allTweets || allTweets.length === 0){
         return (
             <div className="list-tweets-empty">
                 <h2>No hay Tweets</h2>
