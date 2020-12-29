@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/tweetsSimulator/static/css/main.c96d6829.chunk.css",
+    "main.css": "/tweetsSimulator/static/css/main.e1b34742.chunk.css",
     "main.js": "/tweetsSimulator/static/js/main.6bd29bea.chunk.js",
     "main.js.map": "/tweetsSimulator/static/js/main.6bd29bea.chunk.js.map",
     "runtime-main.js": "/tweetsSimulator/static/js/runtime-main.ee113778.js",
@@ -10,14 +10,14 @@
     "static/js/3.f896ba82.chunk.js": "/tweetsSimulator/static/js/3.f896ba82.chunk.js",
     "static/js/3.f896ba82.chunk.js.map": "/tweetsSimulator/static/js/3.f896ba82.chunk.js.map",
     "index.html": "/tweetsSimulator/index.html",
-    "static/css/main.c96d6829.chunk.css.map": "/tweetsSimulator/static/css/main.c96d6829.chunk.css.map",
+    "static/css/main.e1b34742.chunk.css.map": "/tweetsSimulator/static/css/main.e1b34742.chunk.css.map",
     "static/js/2.57449220.chunk.js.LICENSE.txt": "/tweetsSimulator/static/js/2.57449220.chunk.js.LICENSE.txt",
     "static/media/twitter-logo.b413b75b.png": "/tweetsSimulator/static/media/twitter-logo.b413b75b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ee113778.js",
     "static/js/2.57449220.chunk.js",
-    "static/css/main.c96d6829.chunk.css",
+    "static/css/main.e1b34742.chunk.css",
     "static/js/main.6bd29bea.chunk.js"
   ]
 }
