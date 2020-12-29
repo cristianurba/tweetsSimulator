@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/tweetsSimulator/static/css/main.e1b34742.chunk.css",
-    "main.js": "/tweetsSimulator/static/js/main.6bd29bea.chunk.js",
-    "main.js.map": "/tweetsSimulator/static/js/main.6bd29bea.chunk.js.map",
+    "main.js": "/tweetsSimulator/static/js/main.c05a6a04.chunk.js",
+    "main.js.map": "/tweetsSimulator/static/js/main.c05a6a04.chunk.js.map",
     "runtime-main.js": "/tweetsSimulator/static/js/runtime-main.ee113778.js",
     "runtime-main.js.map": "/tweetsSimulator/static/js/runtime-main.ee113778.js.map",
     "static/js/2.57449220.chunk.js": "/tweetsSimulator/static/js/2.57449220.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.ee113778.js",
     "static/js/2.57449220.chunk.js",
     "static/css/main.e1b34742.chunk.css",
-    "static/js/main.6bd29bea.chunk.js"
+    "static/js/main.c05a6a04.chunk.js"
   ]
 }
